@@ -1,0 +1,12 @@
+h2 {
+    background-color: #607d8b;
+    color: #ffffff;
+    padding: 5px;
+  }
+  p {
+    font-size: 18px;
+    width: 70%;
+  }
+  .title {
+    font-size: 65px;
+  }
